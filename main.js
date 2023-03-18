@@ -5,5 +5,5 @@ window.addEventListener("load", function() {
         document.querySelector(".loading").style.display = "none";
         // 显示主界面
         document.querySelector("body").style.visibility = "visible";
-    }, 3000);
+    }, 10000);
 });
